@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-02-01-bead-cell
 excerpt: 'Proposing a machine learning-based platform for analyzing bead-cell interactions with A549 lung cancer cells.'
 date: 2025-02-01
-venue: 'Journal 1'
+venue: 'Sensors and Actuators A: Physical'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0924424724011178'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'

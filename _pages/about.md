@@ -23,20 +23,23 @@ Publications
 
 <div style="font-size:16px; line-height:1.5; margin-bottom:18px;">
   <p>
-    <a href="https://doi.org/10.xxxx" style="font-weight:600; font-size:17px; color:#007acc;">
-      Image-based machine learning quantitative evaluation of bead-cell binding interaction
-    </a><br>
-    <span style="color:#000;">Hoang A. Phan, <b>Anh T. Nguyen</b>, Loc Q. Do, Tung T. Bui, Chun-Ping Jen, Trinh C. Duc</span><br>
-    <i>Sensors and Actuators A: Physical (SCI Q1)</i>
-  </p>
-
-  <p>
     <a href="https://arxiv.org/pdf/2510.16138" style="font-weight:600; font-size:17px; color:#007acc;">
       Expert merging in sparse mixture of experts with Nash bargaining
     </a><br>
     <span style="color:#000;">Dung V. Nguyen<sup>*</sup>, <b>Anh T. Nguyen<sup>*</sup></b>, Minh H. Nguyen, Luc Q. Nguyen, Shiqi Jiang, Ethan Fetaya, Linh D. Tran, Gal Chechik, Tan M. Nguyen</span><br>
     <i>arXiv preprint arXiv:2510.16138, 2025</i>
   </p>
+
+  
+  <p>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924424724011178" style="font-weight:600; font-size:17px; color:#007acc;">
+      Image-based machine learning quantitative evaluation of bead-cell binding interaction
+    </a><br>
+    <span style="color:#000;">Hoang A. Phan, <b>Anh T. Nguyen</b>, Loc Q. Do, Tung T. Bui, Chun-Ping Jen, Trinh C. Duc</span><br>
+    <i>Sensors and Actuators A: Physical (SCI Q1)</i>
+  </p>
+
+  
 </div>
 
 

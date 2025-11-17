@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anh T. Nguyen / Junior AI Engineer"
+title                    : "Anh T. Nguyen / AI Researcher"
 title_separator          : "-"
 name                     : &name "Anh T. Nguyen"
 description              : &description "Anh T. Nguyen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Anh T. Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Junior AI Engineer"
+  bio              : "AI Researcher"
   location         : "Ha Noi, Viet Nam"
   employer         : "Viettel AI"
   uri              : # URL

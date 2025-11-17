@@ -11,28 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Robotics Engineering, VNU University of Engineering and Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023 - present: Artificial Intelligence Reseacher
+  * Viettel AI
+  * Duties includes: 
+  * Supervisor: PhD Linh D. Tran
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2023 - October 2023: Viettel Digital Talent Resident
+  * Viettel Group
+  * Duties included:
+  * Supervisor: PhD Linh D. Tran
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2020 - January 2024 : Research Assistant
+  * VNU University of Engineering and Technology
+  * Duties included: 
+  * Supervisor: Assos. Prof. Dr Tung Bui Thanh
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

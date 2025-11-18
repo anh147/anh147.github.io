@@ -26,8 +26,16 @@
   text-rendering: auto;
   line-height: 1;
 }
+/* đặt trong assets/custom.css và được link trong _includes/head.html sau các CSS của theme */
 .greedy-nav .visible-links {
-  margin-left: auto !important;
+  display: flex;            /* bắt flex nếu theme chưa set */
+  align-items: center;
+  gap: 0.75rem;             /* khoảng cách giữa menu items — chỉnh nếu cần */
+}
+
+/* NHẤN: đẩy mọi item phía sau title sang phải bằng cách cấp margin-right cho title */
+.greedy-nav .visible-links > .masthead__menu-item--lg.persist {
+  margin-right: auto !important;
 }
 .ai-academia:before {
   content: "\e9af";

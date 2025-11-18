@@ -23,9 +23,9 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/CV_Anh_Nguyen.jpg"
+  avatar           : "CV_Anh_Nguyen.jpg"
   name             : "Anh T. Nguyen"
-  pronouns         : "she/her"  
+  # pronouns         : "she/her"  
   bio              : "AI Researcher"
   location         : "Ha Noi, Viet Nam"
   employer         : "Viettel AI"

@@ -26,6 +26,9 @@
   text-rendering: auto;
   line-height: 1;
 }
+.greedy-nav .visible-links {
+  margin-left: auto !important;
+}
 .ai-academia:before {
   content: "\e9af";
 }

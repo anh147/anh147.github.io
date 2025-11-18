@@ -30,7 +30,7 @@ Publications
     <i>arXiv preprint arXiv:2510.16138, 2025</i>
   </p>
 
-  
+
   <p>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924424724011178" style="font-weight:600; font-size:17px; color:#007acc;">
       Image-based machine learning quantitative evaluation of bead-cell binding interaction
@@ -53,8 +53,9 @@ Awards
   <tr>
     <td style="width:20%; vertical-align:top;"><b>Jan 2024</b></td>
     <td>
-      <b>Excellence Award for Outstanding Students of the 2019–2023 Cohort</b><br>
-      <i>Issued by VNU, University of Engineering and Technology</i>
+      <b>Excellence Award for Outstanding Students of the 2019–2024 Cohort</b><br>
+      <i>Issued by VNU, University of Engineering and Technology</i><br>
+      Top 1% of students who receive this award.
     </td>
   </tr>
 
@@ -64,6 +65,14 @@ Awards
       <b>Best Thesis Award</b><br>
       <i>Issued by VNU, University of Engineering and Technology</i><br>
       Project: “Application of computer vision for automated assessment of the efficiency of magnetic bead-cell conjugation in lung cancer cells A549.”
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align:top;"><b>Jan 2024</b></td>
+    <td>
+      <b>Academic Encouragement Scholarship</b><br>
+      <i>Issued by VNU, University of Engineering and Technology</i><br>
     </td>
   </tr>
 
@@ -114,6 +123,14 @@ Awards
     <td>
       <b>Co-founder, UET Robotics Club</b><br>
       A professional club affiliated with the University of Engineering and Technology Students’ Union.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align:top;"><b>Dec 2020</b></td>
+    <td>
+      <b>Academic Encouragement Scholarship</b><br>
+      <i>Issued by VNU, University of Engineering and Technology</i><br>
     </td>
   </tr>
 </table>

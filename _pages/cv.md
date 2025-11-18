@@ -31,7 +31,7 @@ Work experience
 
 Please click here to check out my full CV
 ======
-[Click here to view my full CV](./assets/1811_CV__Anh_Nguyen.pdf)
+[Click here to view my full CV](/assets/1811_CV__Anh_Nguyen.pdf)
 
 <!-- Skills
 ======

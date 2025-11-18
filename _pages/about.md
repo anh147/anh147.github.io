@@ -27,7 +27,7 @@ Publications
       Expert merging in sparse mixture of experts with Nash bargaining
     </a><br>
     <span style="color:#000;">Dung V. Nguyen<sup>*</sup>, <b>Anh T. Nguyen<sup>*</sup></b>, Minh H. Nguyen, Luc Q. Nguyen, Shiqi Jiang, Ethan Fetaya, Linh D. Tran, Gal Chechik, Tan M. Nguyen</span><br>
-    <i>arXiv preprint arXiv:2510.16138, 2025</i>
+    <i>Under Review at ICLR 2026</i>
   </p>
 
 

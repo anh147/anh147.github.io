@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anh T. Nguyen - AI Researcher"
+# title: "Anh T. Nguyen - AI Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,6 +36,15 @@ Publications
       Image-based machine learning quantitative evaluation of bead-cell binding interaction
     </a><br>
     <span style="color:#000;">Hoang A. Phan, <b>Anh T. Nguyen</b>, Loc Q. Do, Tung T. Bui, Chun-Ping Jen, Trinh C. Duc</span><br>
+    <i>Sensors and Actuators A: Physical (SCI Q1)</i>
+  </p>
+
+  <p>
+    <a href="https://ieeexplore.ieee.org/document/10565348" style="font-weight:600; font-size:17px; color:#007acc;">
+      Magnetic Bead Conjugated Lung Tumor Cell Binding Efficiency Assessment Based on Deep-Learning Approach
+    </a><br>
+    <span style="color:#000;">Hoang A. Phan, <b>Anh T. Nguyen</b>, Nguyen D. Pham, Hien V. Dinh, Bao L. Dang, Tung T. Bui, Chun-Ping Jen, Loc D. Quang,
+Hai H. Nguyen, and Trinh C. Duc</span><br>
     <i>Sensors and Actuators A: Physical (SCI Q1)</i>
   </p>
 

@@ -45,7 +45,7 @@ Publications
     </a><br>
     <span style="color:#000;">Hoang A. Phan, <b>Anh T. Nguyen</b>, Nguyen D. Pham, Hien V. Dinh, Bao L. Dang, Tung T. Bui, Chun-Ping Jen, Loc D. Quang,
 Hai H. Nguyen, and Trinh C. Duc</span><br>
-    <i>Proceedings of the 1st International Conference on Health Science and Technology (ICHST). 2023.</i>
+    <i>Proceedings of the 1st International Conference on Health Science and Technology (ICHST) 2023.</i>
   </p>
 
   

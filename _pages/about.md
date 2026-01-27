@@ -64,7 +64,6 @@ Awards
     <td>
       <b>Excellence Award for Outstanding Students of the 2019–2024 Cohort</b><br>
       <i>Issued by VNU, University of Engineering and Technology</i><br>
-      Top 1% of students who receive this award.
     </td>
   </tr>
 

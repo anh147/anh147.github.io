@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 <p style="font-size:16px; line-height:1.55; color:#333; text-align:justify; margin-bottom:14px;">
-I earned my Bachelor’s degree in Robotics Engineering from the University of Engineering and Technology (VNU Hanoi), where my research focused on applying artificial intelligence to robot perception and biomedical imaging. This work strengthened my foundation in computer vision, machine learning, and the integration of AI in complex sensing systems.
+I earned my Bachelor’s degree in Robotics Engineering from the VNU University of Engineering and Technology (VNU UET), where my research focused on applying artificial intelligence to robot perception and biomedical imaging. This work strengthened my foundation in computer vision, machine learning, and the integration of AI in complex sensing systems.
 </p>
 
 <p style="font-size:16px; line-height:1.55; color:#333; text-align:justify;">
@@ -27,7 +27,7 @@ Publications
       Expert merging in sparse mixture of experts with Nash bargaining
     </a><br>
     <span style="color:#000;">Dung V. Nguyen<sup>*</sup>, <b>Anh T. Nguyen<sup>*</sup></b>, Minh H. Nguyen, Luc Q. Nguyen, Shiqi Jiang, Ethan Fetaya, Linh D. Tran, Gal Chechik, Tan M. Nguyen</span><br>
-    <i>Under Review at ICLR 2026</i>
+    <i>International Conference on Learning Representations (ICLR) 2026</i>
   </p>
 
 
@@ -45,7 +45,7 @@ Publications
     </a><br>
     <span style="color:#000;">Hoang A. Phan, <b>Anh T. Nguyen</b>, Nguyen D. Pham, Hien V. Dinh, Bao L. Dang, Tung T. Bui, Chun-Ping Jen, Loc D. Quang,
 Hai H. Nguyen, and Trinh C. Duc</span><br>
-    <i>Proceedings of the 1st International Conference on Health Science and Technology (ICHST) 2023.</i>
+    <i> International Conference on Health Science and Technology (ICHST) 2023.</i>
   </p>
 
   

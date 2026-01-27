@@ -17,11 +17,11 @@ Work experience
 ======
 * Oct 2023 - Present: Artificial Intelligence Reseacher
   * [Viettel AI](https://viettelai.vn/en)
-  * Supervisor: [PhD Linh Duy Tran](https://scholar.google.com/citations?user=HZYUFGkAAAAJ)
+  * Supervisor: [Dr. Linh Duy Tran](https://scholar.google.com/citations?user=HZYUFGkAAAAJ)
 
 * Apr 2023 - Oct 2023: Viettel Digital Talent Resident
   * [Viettel Group](https://viettel.com.vn/en/)
-  * Supervisor: [PhD Linh Duy Tran](https://scholar.google.com/citations?user=HZYUFGkAAAAJ)
+  * Supervisor: [Dr. Linh Duy Tran](https://scholar.google.com/citations?user=HZYUFGkAAAAJ)
 
 * Jan 2020 - Apr 2023 : Undergraduate Research Assistant
   * [Laboratory of Mirco Electro-Mechanical Systems (MEMS Lab)](https://sites.google.com/view/mems-uet/home?authuser=0)
@@ -31,7 +31,7 @@ Work experience
 
 Please click here to check out my full CV
 ======
-[Click here to view my full CV](/assets/1811_CV__Anh_Nguyen.pdf) (updated Nov 2025)
+[Click here to view my full CV](/assets/2801_CV__Anh_Nguyen.pdf) (updated Jan 2026)
 
 <!-- Skills
 ======

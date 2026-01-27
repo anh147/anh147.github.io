@@ -14,7 +14,7 @@ I earned my Bachelor’s degree in Robotics Engineering from the VNU University 
 </p>
 
 <p style="font-size:16px; line-height:1.55; color:#333; text-align:justify;">
-My current research interests include vision-language models (VLMs), multi-modal large language models (LLMs), and reasoning in AI. I am particularly interested in developing multi-modal frameworks for grounded understanding and compositional reasoning, with applications in face anti-spoofing detection, video content understanding, and culturally-aware image captioning in the Vietnamese context.
+My current research interests include vision-language models (VLMs), multi-modal large language models (LLMs), and reasoning in AI. 
 </p>
 
 Publications
